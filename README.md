@@ -1,2 +1,3 @@
-# cloudplus-city
-Interactive Cloudplus 3D city scene
+# Cloudplus City
+
+Интерактивная 3D-сцена Cloudplus. Публикуется через GitHub Pages.
